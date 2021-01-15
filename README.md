@@ -34,3 +34,9 @@ where ? can be 4, 5, or 6.
 ## notes
 
 These are still testing scripts. If you find any bugs, please mail to me: wliu92@mail.ustc.edu.cn
+
+Written by: Wei Liu
+
+Contact: wliu92@mail.ustc.edu.cn
+
+First published: 2021.01.07
